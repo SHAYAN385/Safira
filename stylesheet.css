@@ -1,0 +1,42 @@
+.bgpic1{
+    background-size: cover;
+    background-repeat: no-repeat;    
+    
+    background-image: url(https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/03banner-01.jpg);
+}
+.bgpic2{
+    background-size: cover;
+background-repeat: no-repeat;    
+
+    background-image: url(https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/03banner-02.jpg);
+    
+}
+.bgpic3{
+    background-size: cover;
+    background-repeat: no-repeat;
+       
+    
+    background-image: url(https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/03banner-03.jpg);
+}
+.bgrow{
+   
+background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/bg_block.jpg);
+
+}
+.rowone{
+    border: 1px solid lightgray;
+}
+.anchor a{
+text-decoration: none;
+color: black;
+font-weight: 400;
+}
+.anchor a:hover{
+    color: red;
+}
+hr{
+    color: red;
+}
